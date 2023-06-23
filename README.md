@@ -38,9 +38,13 @@ The mean, standard error and "worst" or largest (mean of the three largest value
 **SCOPE:**
 
   •	Analyzing the available data and exploring relationships among given variables.
+  
   • Data pre-processing.
+  
   •	Training SVM classifier to predict whether the patient has cancer or not.
+  
   •	Assess the correctness in classifying data with respect to efficiency and effectiveness of the SVM classifier in terms of accuracy,       sensitivity, specificity and AUC ROC.
+  
   •	Tuning the hyperparameters of SVM classifier provided by the scikit-learn library.
 
 
