@@ -2,7 +2,7 @@
 
 ![breast_cancer](https://github.com/Srivathsan221/Breast-Cancer-Prediction/assets/61115411/c07f68b1-ed97-48fe-bda6-21c4b6eacf04)
 
-**ABSTRACT:**
+## ABSTRACT:
 
 Breast cancer represents one of the diseases that make a high number of deaths every year. Around 12% of breast cancer occurs in women 20-34 years. It is the most common type of all cancers and the main cause of women’s deaths worldwide. 
 
