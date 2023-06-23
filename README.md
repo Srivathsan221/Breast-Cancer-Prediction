@@ -10,11 +10,11 @@ Classification and data mining methods are an effective way to classify data. Es
 
 The aim is to observe which features are most helpful in predicting malignant or benign cancer and to see general trends that may aid us in model selection and hyper parameter selection. The goal is to classify whether the breast cancer is benign or malignant.
 
-**PROBLEM STATEMENT:**
+## PROBLEM STATEMENT:
 
 Given the details of cell nuclei from breast mass, predict whether or not a patient has breast cancer using the Ensembling techniques. Perform necessary exploratory data analysis before building the model and evaluate the model based on performance metrics than model accuracy.
 
-**DATASET INFORMATION:**
+## DATASET INFORMATION:
 
 The dataset consists of several predictor variables and one target variable, Diagnosis. The target variable has values 'Benign' and 'Malignant', where 'Benign' means that the cells are not harmful or there is no cancer and 'Malignant' means that the patient has
 cancer and the cells have a harmful effect:
@@ -35,7 +35,7 @@ Variable Description:
 
 The mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
 
-**SCOPE:**
+## SCOPE:
 
   •	Analyzing the available data and exploring relationships among given variables.
   
